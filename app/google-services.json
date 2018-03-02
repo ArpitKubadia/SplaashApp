@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "124597728375",
+    "firebase_url": "https://mysampleproject-b2074.firebaseio.com",
+    "project_id": "mysampleproject-b2074",
+    "storage_bucket": "mysampleproject-b2074.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124597728375:android:59d811f9d4321dbb",
+        "android_client_info": {
+          "package_name": "jain.star.yash.splaashapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124597728375-3442048ihn3r8urtpfq2etdo8fq762l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUG4nk54pHMUh7Qc2ebDg3tNvBr0Y1uxo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
